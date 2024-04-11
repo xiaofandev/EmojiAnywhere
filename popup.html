@@ -1,0 +1,30 @@
+<!--
+    html for chrome extension that shows emojis for input
+    connects to javascript file popup.js and css file style.css
+    will render emojis using flexbox
+    every emoji is a div with a unique id
+    every emoji is able to be clicked
+    support html head character set utf-8
+    support html head viewport for mobile devices
+    fix the pop up window
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Emoji Popup</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="emoji-container">
+      <div id="emoji-1" class="emoji">😀</div>
+      <div id="emoji-2" class="emoji">😁</div>
+      <div id="emoji-3" class="emoji">😂</div>
+      <div id="emoji-4" class="emoji">🤣</div>
+      <div id="emoji-5" class="emoji">😃</div>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
