@@ -1,0 +1,19 @@
+{
+  "name": "EmojiAnyWhere",
+  "version": "1.0",
+  "description": "You can use emoj anywhere!",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
