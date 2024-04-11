@@ -3,6 +3,7 @@ body {
 }
 
 #emoji-container {
+  width: 260px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
