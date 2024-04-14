@@ -8,10 +8,10 @@
 
 ### 🎨 Features
 
-- 📚 **Extensive Emoji Library**: Access a comprehensive collection of emojis, including the latest Unicode releases, ensuring you always have the perfect emoji at hand.
-- 🔍 **Intuitive Search**: Quickly find the desired emoji using keywords or categories, making it effortless to browse and select the right one.
 - 💻 **Universal Compatibility**: Seamlessly insert emojis into web forms, chat boxes, social media platforms, and any other text input area across the web.
-- 🔄 **Regular Updates**: Stay up-to-date with the latest emoji additions and improvements as new Unicode versions are released.
+- 📚 **Extensive Emoji Library**: Access a comprehensive collection of emojis, including the latest Unicode releases, ensuring you always have the perfect emoji at hand.(In Progress...)
+- 🔍 **Intuitive Search**: Quickly find the desired emoji using keywords or categories, making it effortless to browse and select the right one.(In Progress...)
+- 🔄 **Regular Updates**: Stay up-to-date with the latest emoji additions and improvements as new Unicode versions are released.(In Progress...)
 
 ### 🛠️ Installation & Usage
 
@@ -37,7 +37,3 @@ We welcome contributions from the community! If you'd like to report issues, sug
 ### 📄 License
 
 EmojiAnywhere is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project as long as you retain the copyright notice and license terms.
-
-### 👏 Acknowledgments
-
-- [EmojiOne](https://www.joypixels.com/) for providing the beautiful emoji artwork used in this extension.
