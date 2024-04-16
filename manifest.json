@@ -1,7 +1,7 @@
 {
   "name": "EmojiAnyWhere",
   "version": "1.0",
-  "description": "You can use emoj anywhere!",
+  "description": "Emojis are inputtable anywhere!",
   "manifest_version": 3,
   "permissions": ["activeTab"],
   "background": {
